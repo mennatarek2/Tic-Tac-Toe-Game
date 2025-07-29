@@ -1,9 +1,5 @@
 # 🎯 Tic Tac Toe - Classic Fun Reimagined!
 
-![App Screenshot](iPhone%2013%20mini%20-%201.png)
-![Gameplay Screenshot](iPhone%2013%20mini%20-%203.png)
-![Win Screen](iPhone%2013%20mini%20-%204.png)
-
 ## 🚀 The Ultimate Tic Tac Toe Experience
 
 Relive the classic game with this beautifully designed Flutter implementation! Challenge your friends or test your strategy skills in this timeless battle of X's and O's.
@@ -26,7 +22,7 @@ Relive the classic game with this beautifully designed Flutter implementation! C
 ## 📸 Screenshots
 | Player Selection | Gameplay | Victory Screen |
 |------------------|----------|----------------|
-| ![Player Selection](iPhone%2013%20mini%20-%201.png) | ![Gameplay](iPhone%2013%20mini%20-%203.png) | ![Victory](iPhone%2013%20mini%20-%204.png) |
+| ![Player Selection](https://github.com/user-attachments/assets/cfbcbf06-10fe-4bf6-a994-aebee66af453) | ![Gameplay](https://github.com/user-attachments/assets/052b4a3b-2f1b-4a84-8a77-262c2cecd17d) | ![Victory](https://github.com/user-attachments/assets/0435784c-9682-4a94-9521-f6d6399a6a5d) |
 
 ## ⚡ Getting Started
 This project is a starting point for a Flutter application.
@@ -35,10 +31,4 @@ A few resources to get you started:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 - [Flutter documentation](https://flutter.dev/docs)
-
-## 🤝 Contribute
-Found a bug? Have a feature request? Feel free to open an issue or submit a PR!
-
-## 📜 License
-MIT © Your Name
 
