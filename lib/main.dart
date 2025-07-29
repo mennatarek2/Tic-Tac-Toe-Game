@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tic_tac_toe_game/welcome_screen.dart';
+import 'game_screen.dart';
 
 
 void main() {
@@ -12,7 +13,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: WelcomeScreen(),
+      routes: {
+        WelcomeScreen.routeName: (context) =>  WelcomeScreen(),
+        GameScreen.routeName: (context) =>  GameScreen(),
+
+      },
+      initialRoute: WelcomeScreen.routeName,
+
       debugShowCheckedModeBanner: false,
     );
   }
