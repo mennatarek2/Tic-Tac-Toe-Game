@@ -22,7 +22,7 @@ Relive the classic game with this beautifully designed Flutter implementation! C
 ## 📸 Screenshots
 | Player Selection | Gameplay | Victory Screen |
 |------------------|----------|----------------|
-| ![Player Selection](https://github.com/user-attachments/assets/cfbcbf06-10fe-4bf6-a994-aebee66af453) | ![Gameplay](https://github.com/user-attachments/assets/052b4a3b-2f1b-4a84-8a77-262c2cecd17d) | ![Victory](https://github.com/user-attachments/assets/0435784c-9682-4a94-9521-f6d6399a6a5d) |
+| ![Player Selection](https://github.com/user-attachments/assets/cfbcbf06-10fe-4bf6-a994-aebee66af453) | ![Gameplay](https://github.com/user-attachments/assets/19e5e5b7-1ca9-4123-abb0-1f6edd288635) | ![Victory](https://github.com/user-attachments/assets/20a004cd-4560-4647-891b-6936b0e2735b) |
 
 ## ⚡ Getting Started
 This project is a starting point for a Flutter application.
